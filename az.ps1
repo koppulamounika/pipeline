@@ -1,1 +1,1 @@
-new-azresourcegroup - name="pipelines1" -location ="east us"
+new-azresourcegroup  -name="pipelines1" -location ="east us"
